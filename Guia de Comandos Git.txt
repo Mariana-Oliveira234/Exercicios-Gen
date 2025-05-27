@@ -8,7 +8,7 @@ git commit -m "Mensagem de commit"
 
 git push origin main -> Empurra as alterações para o github.
 
-*agora estamos na brunch nova
+*agora estamos na branch nova
 
-git checkout -b nome da brunch
+git checkout -b nome da branch
 

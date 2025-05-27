@@ -12,3 +12,5 @@ git push origin main -> Empurra as alterações para o github.
 
 git checkout -b nome da branch
 
+git merge nome da branch -> Trás o conteudo da branch que citou o nome para a que estamos. (importante confirmar em qual branch esta)
+
